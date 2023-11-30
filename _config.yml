@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaohua Li"
+title                    : "Yujia Liu"
 title_separator          : #"-"
-name                     : #&name "Shaohua Li | 李少华"
+name                     : #&name "Yujia Liu | 刘雨佳"
 description              : &description "Ph.D. student at ETH Zurich"
-url                      : https://shao-hua-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yujialiu76.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shao-hua-li/shao-hua-li.github.io"
+repository               : "YujiaLiu76/yujialiu76.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shaohua Li"
-  avatar           : "photo-Shaohua.jpg"
+  name             : "Yujia Liu"
+  avatar           : "photo-yujia.jpg"
   bio              : "Ph.D. student at ETH Zurich"
   location         : "Zurich, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=MwJw4YwAAAAJ&hl=en"
-  email            : shaohua.li@inf.ethz.ch
+  googlescholar    : "https://scholar.google.com/citations?user=IwBPrmkAAAAJ&hl=en"
+  email            : yujia.liu@geod.baug.ethz.ch
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shao-hua-li"
+  github           : "YujiaLiu76"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/ShaohuaLi8"
+  twitter          : "https://twitter.com/YujiaLiu14"
   vine             :
   weibo            :
   xing             :
