@@ -41,6 +41,7 @@ I received my Master's and Bachelor's degrees from University of Science and Tec
   \[[code](https://github.com/YujiaLiu76/PC2WF)\]
   \[[video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjCrdf13-yCAxVDzAIHHfNsDEQQFnoECA0QAQ&url=https%3A%2F%2Ficlr.cc%2Fvirtual%2F2021%2Fposter%2F3169&usg=AOvVaw1WV543IrmZ2X6CJLlZOrIV&opi=89978449)\]
   \[[blog](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi6q7nW3-yCAxUOsaQKHRNYLAwQFnoECBEQAQ&url=https%3A%2F%2Fmedium.com%2Fecovisioneth%2Flearning-to-connect-the-dots-e91c760cfdbd&usg=AOvVaw2kcn2sai2GfhZ2HigCcAjm&opi=89978449)\]
+  
   ![My Image](images/pipeline.pdf)
 
 
