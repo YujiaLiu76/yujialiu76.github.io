@@ -26,13 +26,20 @@ I received my Master's and Bachelor's degrees from University of Science and Tec
 
 ## Selected Publications ([Full publications](https://scholar.google.com/citations?user=IwBPrmkAAAAJ&hl=en))
 
-* Point2CAD:Reverse Engineering CAD Models from 3D Point Clouds<br/>
+* Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds<br/>
   **Yujia Liu**, Anton Obukhov, Jan Dirk Wegner, Konrad Schindler.<br/>
-  In *Computer Vision and Pattern Recognition Conference 2023 StruCo3D Workshop (CVPRw)*<br/>
-  \[[pdf](https://struco3d.github.io/cvpr2023/papers/11.pdf)\] 
+  In *Computer Vision and Pattern Recognition Conference 2024 (CVPR)*<br/>
+  \[[pdf](https://arxiv.org/pdf/2312.04962.pdf)\] 
+  \[[code](https://github.com/YujiaLiu76/point2cad)\]
   \[[video](https://youtu.be/HLyZNsDbFBQ)\] 
   \[[poster](https://struco3d.github.io/cvpr2023/papers/11_poster.pdf)\]
   ![My Image](images/teaser.jpg)
+
+* Point2Building: Reconstructing Buildings from Airborne LiDAR Point Clouds<br/>
+  **Yujia Liu**, Anton Obukhov, Jan Dirk Wegner, Konrad Schindler.<br/>
+  *Under Review 2024*<br/>
+  \[[pdf](https://arxiv.org/pdf/2403.02136.pdf)\]
+  ![My Image](images/teaser_point2building.png)
 
 * PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds<br/>
   **Yujia Liu**, Stefano D'Aronco, Konrad Schindler, Jan Dirk Wegner.<br/>
