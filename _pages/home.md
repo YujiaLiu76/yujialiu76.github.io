@@ -34,6 +34,7 @@ I received my Master's and Bachelor's degrees from University of Science and Tec
   \[[code](https://github.com/YujiaLiu76/point2cad)\]
   \[[video](https://youtu.be/-kmiGGvFN4U)\] 
   \[[poster](images/cvpr24_poster_point2cad.pdf)\]
+  \[[project page](https://www.obukhov.ai/point2cad)\]
   ![My Image](images/teaser.jpg)
 
 * Point2Building: Reconstructing Buildings from Airborne LiDAR Point Clouds<br/>
