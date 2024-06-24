@@ -28,7 +28,7 @@ I received my Master's and Bachelor's degrees from University of Science and Tec
 
 * Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds<br/>
   **Yujia Liu**, Anton Obukhov, Jan Dirk Wegner, Konrad Schindler.<br/>
-  In *Computer Vision and Pattern Recognition Conference 2024 (CVPR)* 
+  In *Computer Vision and Pattern Recognition Conference 2024 (CVPR)*<br/>
   (selected as **highlight**)<br/>
   \[[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Point2CAD_Reverse_Engineering_CAD_Models_from_3D_Point_Clouds_CVPR_2024_paper.pdf)\] 
   \[[code](https://github.com/YujiaLiu76/point2cad)\]
