@@ -12,7 +12,7 @@ redirect_from:
 
 ## About Me
 
-Hi There! I am a final year Ph.D. student in [EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html), [Photogrammetry and Remote Sensing Group](https://prs.igp.ethz.ch/), the Department of Civil, Environmental and Geomatic Engineering at ETH Zurich, under the supervision of [Prof. Konrad Schindler](https://prs.igp.ethz.ch/group/people/person-detail.schindler.html) and [Prof. Jan Dirk Wegner](https://www.ics.uzh.ch/en/research/research-groups/Jan-Dirk-Wegner.html).
+Hi There! I recently obtained my Ph.D. in [EcoVision Lab](https://prs.igp.ethz.ch/ecovision.html), [Photogrammetry and Remote Sensing Group](https://prs.igp.ethz.ch/), the Department of Civil, Environmental and Geomatic Engineering at ETH Zurich, under the supervision of [Prof. Konrad Schindler](https://prs.igp.ethz.ch/group/people/person-detail.schindler.html) and [Prof. Jan Dirk Wegner](https://www.ics.uzh.ch/en/research/research-groups/Jan-Dirk-Wegner.html).
 
 ## Research
 
@@ -29,16 +29,18 @@ I received my Master's and Bachelor's degrees from University of Science and Tec
 * Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds<br/>
   **Yujia Liu**, Anton Obukhov, Jan Dirk Wegner, Konrad Schindler.<br/>
   In *Computer Vision and Pattern Recognition Conference 2024 (CVPR)*<br/>
-  \[[pdf](https://arxiv.org/pdf/2312.04962.pdf)\] 
+  (selected as **highlight**)
+  \[[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Point2CAD_Reverse_Engineering_CAD_Models_from_3D_Point_Clouds_CVPR_2024_paper.pdf)\] 
   \[[code](https://github.com/YujiaLiu76/point2cad)\]
-  \[[video](https://youtu.be/HLyZNsDbFBQ)\] 
-  \[[poster](https://struco3d.github.io/cvpr2023/papers/11_poster.pdf)\]
+  \[[video](https://youtu.be/-kmiGGvFN4U)\] 
+  \[[poster](images/cvpr24_poster_point2cad.pdf)\]
   ![My Image](images/teaser.jpg)
 
 * Point2Building: Reconstructing Buildings from Airborne LiDAR Point Clouds<br/>
   **Yujia Liu**, Anton Obukhov, Jan Dirk Wegner, Konrad Schindler.<br/>
   *Under Review 2024*<br/>
   \[[pdf](https://arxiv.org/pdf/2403.02136.pdf)\]
+  \[[poster](images/cvpr24_poster_point2building.pdf)\]
   ![My Image](images/teaser_point2building.png)
 
 * PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds<br/>
