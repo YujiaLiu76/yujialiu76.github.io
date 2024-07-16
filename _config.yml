@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yujia Liu"
 title_separator          : #"-"
 name                     : #&name "Yujia Liu | 刘雨佳"
-description              : &description "Ph.D. student at ETH Zurich"
+description              : &description "ETH Zurich"
 url                      : https://yujialiu76.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YujiaLiu76/yujialiu76.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yujia Liu"
   avatar           : "photo-yujia.jpg"
-  bio              : "Ph.D. student at ETH Zurich"
+  bio              : "ETH Zurich"
   location         : "Zurich, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

@@ -39,7 +39,7 @@ I received my Master's and Bachelor's degrees from University of Science and Tec
 
 * Point2Building: Reconstructing Buildings from Airborne LiDAR Point Clouds<br/>
   **Yujia Liu**, Anton Obukhov, Jan Dirk Wegner, Konrad Schindler.<br/>
-  *Under Review 2024*<br/>
+  In *ISPRS Journal of Photogrammetry and Remote Sensing 2024*<br/>
   \[[pdf](https://arxiv.org/pdf/2403.02136.pdf)\]
   \[[poster](images/cvpr24_poster_point2building.pdf)\]
   ![My Image](images/teaser_point2building.png)
